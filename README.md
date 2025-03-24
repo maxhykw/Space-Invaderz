@@ -36,25 +36,25 @@
 ## LES ÉTAPES DU PROJET
 1.	Idée initiale : Faire un jeu d’hommage à Space Invaders
 2.	Prototype :
-o	Affichage d’un carré bleu 8x8
-o	Déplacement avec les flèches
-o	Ajout d’un rectangle jaune comme projectile
-o	Animation de montée du projectile
-o	Apparition aléatoire de carrés rouges
-o	Disparition du vaisseau en cas de collision
-o	Calcul des collisions avec intervalles
-o	Points de vie pour ennemis et projectiles
-o	Explosion des sprites
-o	Message “game over”
-o	Compteur de score
+-  Affichage d’un carré bleu 8x8
+-  Déplacement avec les flèches
+-  Ajout d’un rectangle jaune comme projectile
+-  Animation de montée du projectile
+-  Apparition aléatoire de carrés rouges
+-  Disparition du vaisseau en cas de collision
+-  Calcul des collisions avec intervalles
+-  Points de vie pour ennemis et projectiles
+-  Explosion des sprites
+-  Message “game over”
+-  Compteur de score
 3.	Transformation en projet complet :
-o	Ajout d’un arrière-plan
-o	Nouveaux ennemis
-o	Apparences personnalisées
-o	Événement scripté (ceinture d’astéroïdes)
-o	Bande audio
-o	Système d’alerte
-o	Agrandissement de la surface de jeu
+-  Ajout d’un arrière-plan
+-  Nouveaux ennemis
+-  Apparences personnalisées
+-  Evénement scripté (ceinture d’astéroïdes)
+-  Bande audio
+-  Système d’alerte
+-  Agrandissement de la surface de jeu
 
 ---
 
