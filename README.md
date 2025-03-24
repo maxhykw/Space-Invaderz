@@ -1,6 +1,6 @@
-# SpaceProgrammerZ
+# Space-Invaderz
 
-**SpaceProgrammerZ** est un jeu rétro inspiré de *Space Invaders*, programmé avec **Pyxel**. J’avais envie de produire un jeu rétro, old school, plongé dans la nostalgie, dans mon temps libre. :)
+**Space-Invaderz** est un jeu rétro inspiré de *Space Invaders*, programmé avec **Pyxel**. J’avais envie de produire un jeu rétro, old school, plongé dans la nostalgie, dans mon temps libre. :)
 
 ---
 
